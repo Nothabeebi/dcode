@@ -2,12 +2,12 @@ from . import __version__ as app_version
 
 app_name = "dcode"
 app_title = "Dcode"
-app_publisher = "Murad Lansa"
+app_publisher = "Habeeb Abdullah"
 app_description = "Theme"
-app_email = "mail@muradlansa.com"
+app_email = "habeeb@zoserp.com"
 app_license = "MIT"
 
-
+fixtures = ["Web Page"]
 base_template = "dcode/templates/base.html"
 
 
